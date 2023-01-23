@@ -1,0 +1,99 @@
+#gazpachodecerezas, #crujiente {
+	font: 120% cursive;
+	line-height: 120%;
+
+}
+
+#fideosmarineros, #macarrones {
+	font: 120% cursive;
+	line-height: 120%;
+}
+
+#tartaqueso, #pastelpiña {
+	font: 120% cursive;
+	line-height: 120%;
+}
+
+p {
+	font: 150% Verdana;
+	line-height: 120%;
+}
+	
+	body {
+			background-color: #efaca4;
+		}
+
+	ul,ol {
+		    font-family: cursive;
+	    }
+
+	#menu {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+			background-color: #eb7269;
+		}
+
+	#menu li {  float: left;}
+
+	#menu li a {
+			display: block;
+			color: white;
+			text-align: center;
+			padding: 50px;
+			text-decoration: none;
+		}
+
+	#menu li a:hover {  background-color: #da6536;}
+		
+    .der {
+			float: right;
+		 }
+
+	table {
+		    background-color: #f58377;
+			color: rgb(218, 187, 233);
+			width:100%;
+			table-layout: fixed;
+			border-collapse: collapse;
+			border: 3px solid #eb7269;
+	}
+
+	caption {
+			font-size: 4ex;
+			padding: 20px;
+			color: #eb7269;
+			letter-spacing: 1px;
+	  }
+
+	input[type=submit] {
+		background-color: rgb(241, 230, 7);
+		border-radius: 10px;
+	}
+
+	input[type=reset] {
+		background-color: rgb(121, 68, 242);
+		border-radius: 10px;
+	}
+
+	input {
+		background-color: rgb(201, 230, 254);
+		width: 400px;
+		border: none
+		border-bottom: 1px solid silver;
+	}
+
+	textarea {
+		background-color: rgb(201, 230, 254);
+		width: 400px;
+		border: none
+		border-bottom: 1px solid silver;
+	}
+
+	label {
+		display: inline-block;
+		width: 225px;
+		height: 35px;
+
+	}
